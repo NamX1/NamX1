@@ -8,9 +8,6 @@
 </div>
 
 ###
-
-<iframe src="https://giphy.com/embed/7hJZcKzjIufeOmqKSj" height="130" frameborder="0" class="giphy-embed" allowfullscreen style="float: right;"></iframe>
-
 ###
 
 <div align="center">
