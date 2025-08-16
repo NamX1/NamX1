@@ -1,45 +1,67 @@
-<h1 align="center">Hello, Friend! 👋</h1>
+<br clear="both">
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXNuNTYyaDl1YmNuMndoZmY1enJ2Y21qMzVwM2M3bnA4Yno1aHZzdyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/6KirhLJyR7oMcwgJQk/giphy.gif"  />
+
+###
+
+<h1 align="left">Hey There, I`m Kevin Charlie 👋</h1>
+
+###
+
+<h4 align="center">CTF Enthusias - Member Of Meta4Sec</h4>
+
+###
+
+<br clear="both">
+
+<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWU0dXM5YWJuNDF4OWZyYjZkNjQyMjZ3bzZ3cmtiMTEzc2k3a3JiYyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kBrSH5C4ps9nyNDo4S/giphy.gif"  />
+
+###
+
+<h1 align="center">📬 Reach Me</h1>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.hackerrank.com/profile/NamX1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <a href="https://discord.com/users/856166762793009202" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   </a>
-  <a href="https://tryhackme.com/p/Und3rgr04nd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h1 align="center">🛠 Language and tools</h1>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h1 align="center">🔥   My Stats :</h1>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NamX1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=NamX1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=NamX1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NamX1/NamX1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NamX1/NamX1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NamX1/NamX1/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
