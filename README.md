@@ -1,18 +1,14 @@
-<br clear="both">
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXNuNTYyaDl1YmNuMndoZmY1enJ2Y21qMzVwM2M3bnA4Yno1aHZzdyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/6KirhLJyR7oMcwgJQk/giphy.gif"  />
 
 ###
 
-<h1 align="left">Hey There, I`m Kevin Charlie 👋</h1>
+<h1 align="center">Hey There, I`m Kevin Charlie 👋</h1>
 
 ###
 
 <h4 align="center">CTF Enthusias - Member Of Meta4Sec</h4>
 
 ###
-
-<br clear="both">
 
 <img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWU0dXM5YWJuNDF4OWZyYjZkNjQyMjZ3bzZ3cmtiMTEzc2k3a3JiYyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kBrSH5C4ps9nyNDo4S/giphy.gif"  />
 
