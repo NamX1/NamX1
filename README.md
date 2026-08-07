@@ -2,7 +2,7 @@
 
 ###
 
-<h3 data-importer="text" align="right">Hi 👋! My name is Kevin and I'm a Backend Engineer</h3>
+<h3 data-importer="h1" align="center">Hi 👋! My name is Kevin and I'm a Backend Engineer</h3>
 
 ###
 
